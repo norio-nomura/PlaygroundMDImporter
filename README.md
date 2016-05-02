@@ -3,6 +3,8 @@
 
 PlaygroundMDImporter is a Spotlight Importer for Xcode Playground.
 
+![Screenshot.png](Screenshot.png)
+
 ## Requirements
 - Xcode 7.3 or later
 
